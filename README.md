@@ -5,10 +5,20 @@ Eligibility : For anyone who wants to learn or brush some of the Python's concep
 All codes are properly commented to increase the readabilty and understanding of the concepts
 
 tutorials1:  writing our very first, though super basic, program!
+
+
 tutorials2: Getting familiar with some basic Python principles like tuples, strings, and loops
+
+
 tutorials3: Learning about lists and beginning our Tic Tac Toe project!
+
+
 tutorials4: Learning how to use built-in functions
+
+
 tutorials5: Using indexes to modify our Tic Tac Toe game board
+
+
 tutorials6: Learning how and why to use Functions in Python
 tutorials7: covering function parameters.
 tutorials8: mutable and immutable objects(includes quiz)
