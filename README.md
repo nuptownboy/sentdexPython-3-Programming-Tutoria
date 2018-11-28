@@ -20,14 +20,34 @@ tutorials5: Using indexes to modify our Tic Tac Toe game board
 
 
 tutorials6: Learning how and why to use Functions in Python
+
+
 tutorials7: covering function parameters.
+
+
 tutorials8: mutable and immutable objects(includes quiz)
+
+
 tutorials9: things that can go wrong and how to handle for those errors.
+
+
 tutorials10: how we can identify(horizontal) winners of the game
+
+
 tutorials11: Vertical winners
+
+
 tutorials12: diagonal winners
+
+
 tutorials13: bringing our TicTacToe game together
+
+
 tutorials14: Wrapping up TicTacToe
+
+
 tutorials15: How to import the module.
+
+
 
 Please let me know if you come across any typos,error,corner cases or any improvement possible in the codes
